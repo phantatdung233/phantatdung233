@@ -42,18 +42,15 @@ I'm **Phan Tất Dũng**, a full-stack software engineer building web applicatio
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantatdung233&amp;theme=github_dark" alt="GitHub statistics for phantatdung233" />
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantatdung233&amp;theme=github_dark" alt="Language distribution across public repositories" />
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phantatdung233/phantatdung233/output/github-contribution-grid-snake-dark.svg" />
-    <img width="96%" src="https://raw.githubusercontent.com/phantatdung233/phantatdung233/output/github-contribution-grid-snake.svg" alt="Contribution snake eating my GitHub contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=phantatdung233&amp;hide_border=true&amp;theme=github-dark-blue&amp;card_width=420" />
+    <img width="420" src="https://streak-stats.demolab.com?user=phantatdung233&amp;hide_border=true&amp;theme=github-blue&amp;card_width=420" alt="Current and longest contribution streaks for phantatdung233" />
   </picture>
+  <br />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantatdung233&amp;theme=github_dark" alt="Language distribution across public repositories" />
 </p>
 
-<p align="center"><sub>Public GitHub activity · Cards from GitHub Profile Summary Cards · Snake from Platane/snk</sub></p>
+<p align="center"><sub>Public GitHub activity · Streak and language cards refresh automatically</sub></p>
 
 ---
 
