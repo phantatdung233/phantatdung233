@@ -3,15 +3,12 @@
 <p align="center">
   <a href="#-about">About</a> &nbsp; · &nbsp;
   <a href="#-tech-stack">Tech Stack</a> &nbsp; · &nbsp;
-  <a href="#-selected-projects">Projects</a> &nbsp; · &nbsp;
   <a href="#-github-activity">GitHub Activity</a>
 </p>
 
 ## 👋 About
 
 I'm **Phan Tất Dũng**, a full-stack software engineer building web applications with **NestJS, Next.js, and TypeScript**. I enjoy connecting clear, usable interfaces with the data and application logic that make them work.
-
-My public projects explore practical problems: planning university timetables, navigating city transit, and ordering food online.
 
 ## 🛠 Tech Stack
 
@@ -42,54 +39,21 @@ My public projects explore practical problems: planning university timetables, n
 </tr>
 </table>
 
-## 🚀 Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>📅 UIT Schedule Planner</h3>
-<p>A course planning tool for UIT students, from importing class data to finding a timetable that fits.</p>
-<ul>
-<li>Excel and Google Sheets imports</li>
-<li>Conflict detection and automatic schedule combinations</li>
-<li>Multiple plans and timetable image export</li>
-</ul>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Zustand</code></p>
-<a href="https://github.com/phantatdung233/dkhp-uit"><strong>Explore repository →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>🚌 HCMC Bus Map</h3>
-<p>An interactive transit app for exploring bus routes and stops across Ho Chi Minh City.</p>
-<ul>
-<li>Interactive maps and route details</li>
-<li>Bus arrival estimates</li>
-<li>Digital tickets and wallet flows</li>
-</ul>
-<p><code>Next.js</code> <code>MongoDB</code> <code>Leaflet</code></p>
-<a href="https://github.com/phantatdung233/hcmc-bus-map"><strong>Explore repository →</strong></a>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h3>🍽 WDS Food Delivery</h3>
-<p>A food ordering frontend covering restaurant discovery, menus, a persistent cart, and a validated checkout flow with mock API data.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Zustand</code></p>
-<a href="https://github.com/phantatdung233/wds-food-delivery"><strong>Explore repository →</strong></a>
-</td>
-</tr>
-</table>
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantatdung233&amp;theme=github_dark" alt="GitHub contribution activity for phantatdung233" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantatdung233&amp;theme=github_dark" alt="GitHub statistics for phantatdung233" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantatdung233&amp;theme=github_dark" alt="Language distribution across public repositories" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantatdung233&amp;theme=github_dark" alt="GitHub statistics for phantatdung233" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantatdung233&amp;theme=github_dark" alt="Language distribution across public repositories" />
 </p>
 
-<p align="center"><sub>Public GitHub activity · Cards refresh through GitHub Profile Summary Cards</sub></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phantatdung233/phantatdung233/output/github-contribution-grid-snake-dark.svg" />
+    <img width="96%" src="https://raw.githubusercontent.com/phantatdung233/phantatdung233/output/github-contribution-grid-snake.svg" alt="Contribution snake eating my GitHub contributions" />
+  </picture>
+</p>
+
+<p align="center"><sub>Public GitHub activity · Cards from GitHub Profile Summary Cards · Snake from Platane/snk</sub></p>
 
 ---
 
