@@ -1,79 +1,99 @@
 ![Phan Tất Dũng — Full-stack software engineer. Next.js, NestJS, TypeScript.](./assets/header.png)
 
-I'm **Dũng**, a software engineer working across the frontend and backend with **Next.js, NestJS, and TypeScript**. My public projects explore course planning, city transit, and food ordering.
+<p align="center">
+  <a href="#-about">About</a> &nbsp; · &nbsp;
+  <a href="#-tech-stack">Tech Stack</a> &nbsp; · &nbsp;
+  <a href="#-selected-projects">Projects</a> &nbsp; · &nbsp;
+  <a href="#-github-activity">GitHub Activity</a>
+</p>
 
-[Selected projects](#selected-projects) &nbsp; / &nbsp; [Tech stack](#tech-stack) &nbsp; / &nbsp; [GitHub activity](#github-activity)
+## 👋 About
 
-## Selected projects
+I'm **Phan Tất Dũng**, a full-stack software engineer building web applications with **NestJS, Next.js, and TypeScript**. I enjoy connecting clear, usable interfaces with the data and application logic that make them work.
+
+My public projects explore practical problems: planning university timetables, navigating city transit, and ordering food online.
+
+## 🛠 Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/phantatdung233/dkhp-uit">UIT Schedule Planner</a></h3>
-<p>Helping UIT students turn course data into a timetable that fits.</p>
-<ul>
-<li>Import classes from Excel or Google Sheets.</li>
-<li>Detect overlaps and generate compatible course combinations.</li>
-<li>Keep multiple plans and export a timetable image.</li>
-</ul>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Zustand</code></p>
+<td width="150"><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/phantatdung233/hcmc-bus-map">HCMC Bus Map</a></h3>
-<p>Exploring Ho Chi Minh City transit through an interactive map.</p>
-<ul>
-<li>Browse routes, stops, fares, and operating hours.</li>
-<li>Look up arrival estimates between stops.</li>
-<li>Explore digital ticket and wallet workflows.</li>
-</ul>
-<p><code>Next.js</code> <code>MongoDB</code> <code>Leaflet</code></p>
+</tr>
+<tr>
+<td><strong>Backend &amp; Data</strong></td>
+<td>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+</td>
+</tr>
+<tr>
+<td><strong>Languages &amp; Libraries</strong></td>
+<td>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" alt="Zustand" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet" />
 </td>
 </tr>
 </table>
 
-### [WDS Food Delivery](https://github.com/phantatdung233/wds-food-delivery)
+## 🚀 Selected Projects
 
-A food ordering frontend with restaurant menus, a persistent cart, and a validated checkout flow. Built with mock API data as a learning project.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📅 UIT Schedule Planner</h3>
+<p>A course planning tool for UIT students, from importing class data to finding a timetable that fits.</p>
+<ul>
+<li>Excel and Google Sheets imports</li>
+<li>Conflict detection and automatic schedule combinations</li>
+<li>Multiple plans and timetable image export</li>
+</ul>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Zustand</code></p>
+<a href="https://github.com/phantatdung233/dkhp-uit"><strong>Explore repository →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>🚌 HCMC Bus Map</h3>
+<p>An interactive transit app for exploring bus routes and stops across Ho Chi Minh City.</p>
+<ul>
+<li>Interactive maps and route details</li>
+<li>Bus arrival estimates</li>
+<li>Digital tickets and wallet flows</li>
+</ul>
+<p><code>Next.js</code> <code>MongoDB</code> <code>Leaflet</code></p>
+<a href="https://github.com/phantatdung233/hcmc-bus-map"><strong>Explore repository →</strong></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🍽 WDS Food Delivery</h3>
+<p>A food ordering frontend covering restaurant discovery, menus, a persistent cart, and a validated checkout flow with mock API data.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Zustand</code></p>
+<a href="https://github.com/phantatdung233/wds-food-delivery"><strong>Explore repository →</strong></a>
+</td>
+</tr>
+</table>
 
-[![WDS Food Delivery homepage screenshot from the project repository](./assets/food-delivery.png)](https://github.com/phantatdung233/wds-food-delivery)
-
-`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Zustand`
-
-<sub>Homepage preview from the project repository.</sub>
-
-## Tech stack
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-202020?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/React-253149?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-</p>
-
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | Next.js, React, Tailwind CSS, shadcn/ui |
-| Backend & data | NestJS, MongoDB |
-| Languages | TypeScript, JavaScript |
-| State & interactions | Zustand, React Hook Form, Zod, Leaflet |
-
-## GitHub activity
+## 📊 GitHub Activity
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantatdung233&amp;theme=github_dark" />
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantatdung233&amp;theme=github" alt="Contribution activity for phantatdung233" />
-</picture>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantatdung233&amp;theme=github_dark" alt="GitHub contribution activity for phantatdung233" />
 </p>
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantatdung233&amp;theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantatdung233&amp;theme=github" alt="GitHub statistics for phantatdung233" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantatdung233&amp;theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantatdung233&amp;theme=github" alt="Languages across public repositories" />
-</picture>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantatdung233&amp;theme=github_dark" alt="GitHub statistics for phantatdung233" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantatdung233&amp;theme=github_dark" alt="Language distribution across public repositories" />
 </p>
 
-<sub>Public activity, rendered by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>. Language counts describe repositories, not proficiency.</sub>
+<p align="center"><sub>Public GitHub activity · Cards refresh through GitHub Profile Summary Cards</sub></p>
+
+---
+
+<p align="center">
+  <strong>Thanks for stopping by.</strong><br />
+  <sub>Explore the repositories to see what I'm building.</sub>
+</p>
