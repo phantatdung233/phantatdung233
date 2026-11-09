@@ -1,37 +1,50 @@
 <div align="center">
 
-# Hi, I'm phantatdung233 👋
+# Phan Tất Dũng
 
-### Welcome to my GitHub profile
+### Full-stack Software Engineer
 
-<!-- Replace this introduction with a short description of what you do and what you enjoy building. -->
+Building web applications with **NestJS** and **Next.js**.
+
+<br />
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 
 </div>
 
 ---
 
-## About me
+## About
 
-- 🌱 Currently learning and building with software.
-- 💡 Interested in creating useful products and exploring new technologies.
-- 📫 Reach me: add your preferred contact link here.
+I’m a full-stack engineer interested in building practical web products, from clear user interfaces to the systems behind them. My projects include tools for university course planning, city transit, and online food ordering.
 
-## Technologies
+## Selected projects
 
-<!-- Keep the technologies you use and remove the rest. -->
+### [UIT Schedule Planner](https://github.com/phantatdung233/dkhp-uit)
 
-`Add your languages, frameworks, and tools here`
+A course planning app for UIT students. Import schedules, detect timetable conflicts, generate course combinations, and export a plan to share.
 
-## Featured projects
+`Next.js` · `React` · `TypeScript` · `Zustand`
 
-<!-- Add repositories you want visitors to discover. Example: [Project name](https://github.com/phantatdung233/repository) — what it does. -->
+### [HCMC Bus Map](https://github.com/phantatdung233/hcmc-bus-map)
 
-- **Your project** — Add a one-line description and link to a repository.
+Explore Ho Chi Minh City bus routes and stops, check route details and arrival estimates, and manage digital ticket and wallet flows.
+
+`Next.js` · `TypeScript` · `MongoDB` · `Leaflet`
+
+### [WDS Food Delivery](https://github.com/phantatdung233/wds-food-delivery)
+
+A food ordering frontend with restaurant menus, a persistent cart, and a validated checkout flow.
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Zustand`
 
 ---
 
 <div align="center">
 
-Thanks for stopping by! ✨
+Thanks for visiting my profile.
 
 </div>
